@@ -1,4 +1,5 @@
 Chào mọi người 👋
+_______________________________________
 
 📝 Đây là một chút thông tin về mình
 
@@ -10,6 +11,7 @@ Chào mọi người 👋
 
 😍 Một chút sở thích của mình là: 💻 Code 🎮 Chơi Game 🎵 Nghe nhạc
 
+________________________________________________
 
 📱 Thông tin liên lạc của mình nè ~~
 
@@ -20,4 +22,5 @@ My Facebook: Hồ Yến Nhi
 Mail cá nhân: hyn.yennhi143@gmail.com
 
 
+____________________________________________________
 ~~ Tới đây là hết ùi ~~ Bye bye mọi người
